@@ -1,0 +1,15 @@
+.m1{
+    display: flex;
+}
+.ml1{
+    height: 160px;
+text-align: center;
+    width: 160px;
+}
+.form{
+    text-align: center;
+}
+input{
+    width: 170px;
+    border-radius: 12px;
+}

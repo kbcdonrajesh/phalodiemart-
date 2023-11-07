@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+.m1{
+    display: flex;
+}
+.gap{
+    width: 100px;
+}

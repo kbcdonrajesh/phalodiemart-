@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    color: beige;
+}
+.back {
+    text-align: left;
+    display: flex;
+}
+a{
+    color: #fcfbfb;
+}
+button{
+    background-color: rgb(255, 102, 0);
+    color: black;
+    border-radius: 19px;
+    height: 50px;
+    width: 100px;
+}
